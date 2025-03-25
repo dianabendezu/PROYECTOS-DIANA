@@ -2,6 +2,6 @@
 
 # Volumen de un cubo
 lado = float(input("Ingrese el lado del cubo: "))
-volumen = lado * lado * lado
+volumen = lado **3
 print("El volumen del cubo es:", volumen)
 
